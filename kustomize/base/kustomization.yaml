@@ -8,4 +8,4 @@ namespace: hello-gitops
 images:
 - name: hello-gitops
   newName: nelsonjvf/hello-gitops
-  newTag: 3307ffcb09b84b2b7f3d0d51978e6b15ee3f7409
+  newTag: 50b7f2adad60841924d03a5f74317c087e9151d0
